@@ -1,0 +1,14 @@
+C:\Users\vedaa\source\repos\RoomCalculator\bin\Debug\net8.0\RoomCalculator.exe
+C:\Users\vedaa\source\repos\RoomCalculator\bin\Debug\net8.0\RoomCalculator.deps.json
+C:\Users\vedaa\source\repos\RoomCalculator\bin\Debug\net8.0\RoomCalculator.runtimeconfig.json
+C:\Users\vedaa\source\repos\RoomCalculator\bin\Debug\net8.0\RoomCalculator.dll
+C:\Users\vedaa\source\repos\RoomCalculator\bin\Debug\net8.0\RoomCalculator.pdb
+C:\Users\vedaa\source\repos\RoomCalculator\obj\Debug\net8.0\RoomCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedaa\source\repos\RoomCalculator\obj\Debug\net8.0\RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\vedaa\source\repos\RoomCalculator\obj\Debug\net8.0\RoomCalculator.AssemblyInfo.cs
+C:\Users\vedaa\source\repos\RoomCalculator\obj\Debug\net8.0\RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\vedaa\source\repos\RoomCalculator\obj\Debug\net8.0\RoomCalculator.dll
+C:\Users\vedaa\source\repos\RoomCalculator\obj\Debug\net8.0\refint\RoomCalculator.dll
+C:\Users\vedaa\source\repos\RoomCalculator\obj\Debug\net8.0\RoomCalculator.pdb
+C:\Users\vedaa\source\repos\RoomCalculator\obj\Debug\net8.0\RoomCalculator.genruntimeconfig.cache
+C:\Users\vedaa\source\repos\RoomCalculator\obj\Debug\net8.0\ref\RoomCalculator.dll
